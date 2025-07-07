@@ -14,7 +14,7 @@ This project models and analyzes the impact of Electrical Fast Transients (EFT) 
 
 ## Project Files
 
-- [Block Diagram](./BlockDiagram.pdf) – System-level schematic showing test setup and mitigation paths  
+- [Block Diagram](./BlockDiagram.pdf) 
 
 ## Key Highlights
 
