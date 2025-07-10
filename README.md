@@ -1,6 +1,6 @@
 # Simulation of Electrical Transients for Hardware Reliability Assessment
 
-This project models and analyzes the impact of Electrical Fast Transients (EFT) and surge pulses on power systems through LTspice simulations, adhering to compliance standards such as IEC 61000-4-4 and IEC 61000-4-5. The objective is to evaluate the resilience of AC and DC system configurations under high-frequency electrical disturbances. Custom burst waveforms and surge conditions are applied to replicate real-world interference environments. Circuit behavior is observed and compared before and after transient injection. Additionally, suppression circuits were designed to mitigate these effects, guiding robust hardware design for noise-prone environments.
+This project models and analyzes the impact of Electrical Fast Transients (EFT) and Surge pulses injected on power lines of device through LTspice simulations, adhering to compliance standards such as IEC 61000-4-4 and IEC 61000-4-5. The objective is to evaluate the resilience of AC and DC system configurations under high-frequency electrical disturbances. Custom burst waveforms and surge conditions are applied to replicate real-world interference environments. Circuit behavior is observed and compared before and after transient injection. Additionally, suppression circuits were designed to mitigate these effects, guiding robust hardware design for noise-prone environments.
 
 ## Tools and Technologies
 
