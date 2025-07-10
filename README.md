@@ -10,9 +10,12 @@ This project models and analyzes the impact of Electrical Fast Transients (EFT) 
 
 ## Project Files
 
-- [Block Diagram](./BlockDiagram.png)
+- [General Block Diagram](./BlockDiagram.png)  
+- [DC Surge Test Result](./Surge_DC.png)  
+- [DC EFT Test Result](./EFT_DC.png)  
+- [AC EFT Test Result](./EFT_AC.png)
 
-**Note:** For the complete report, simulation data, and detailed circuit implementations, feel free to reach out via email.
+**Note:** For the complete report, simulation results, and detailed circuit schematics, please reach out via email.
 
 ## Key Highlights
 
