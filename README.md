@@ -10,7 +10,7 @@ This project models and analyzes the impact of Electrical Fast Transients (EFT) 
 
 ## Project Files
 
-- [Block Diagram](./BlockDiagram.pdf)
+- [Block Diagram](./BlockDiagram.png)
 
 **Note:** For the complete report, simulation data, and detailed circuit implementations, feel free to reach out via email.
 
